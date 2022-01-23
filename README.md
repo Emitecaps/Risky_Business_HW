@@ -1,9 +1,8 @@
 ## Risky Business
 
-### In this assignment, a client has asked that we help them predict credit risk by using Machine Learning techniques. Imbalanced-learn & Scikit-learn libraries were used to build & evaluate models.
+### In this assignment, a client has asked to help them predict credit risk by using Machine Learning techniques. Imbalanced-learn & Scikit-learn libraries were used to build & evaluate models.
 
-### We were provided with the starter code & data for the 2 notebooks:
-
+### The starter code & data for the 2 notebooks were provided:
 * credit_risk_resampling.ipynb
 * credit_risk_ensemble.ipynb
 * lending_data.csv
