@@ -22,9 +22,9 @@ Naive Random Oversampling
 &
 SMOTE.
 
-* Undersampled the data using Cluster Centroids algoritihm.
+* Undersampled the data using Cluster Centroids algorithim.
 
-* Under/oversampled using a combo SMOTEENN algoritihm to determine if the algorithim results in the the BEST performance compared to the other sampling algorithims used. We determined the best of all the models used.
+* Under/oversampled using a combo SMOTEENN algorithim to determine if the algorithim results in the the BEST performance compared to the other sampling algorithims used. We determined the best of all the models used.
 
 
 ### In the 'credit_risk_ensemble' notebook:
