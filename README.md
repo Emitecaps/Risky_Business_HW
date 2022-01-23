@@ -7,7 +7,7 @@
 * credit_risk_resampling.ipynb
 * credit_risk_ensemble.ipynb
 * lending_data.csv
-* LoanStats_2019q1.csv
+* LoanStats_2019q1.csv.zip
 
 ### In the 'credit_risk_resampling' notebook:
 
